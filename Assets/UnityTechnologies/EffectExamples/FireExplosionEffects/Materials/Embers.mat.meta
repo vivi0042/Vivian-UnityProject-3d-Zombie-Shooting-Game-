@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54cdf483b7d8be74aab20b341d9a3be6
+timeCreated: 1471532950
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 3.1
+  assetPath: Assets/UnityTechnologies/EffectExamples/FireExplosionEffects/Materials/Embers.mat
+  uploadId: 691001
